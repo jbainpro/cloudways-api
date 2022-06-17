@@ -1,6 +1,6 @@
 <?php
 
-namespace Armagedan\CloudwaysApi;
+namespace Jbainpro\CloudwaysApi;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
