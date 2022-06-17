@@ -5,7 +5,7 @@ This API is built to make your coding experience less stressful and help you get
 **Please bare in mind that some of these functions may not work as intended as Cloudways API is still on beta version. Some of the URL's does not output the expected results.**
 
 # Installation
-	composer require armagedan/cloudways-api
+	composer require jbainpro/mycloudwaysapi
 
 This package requires guzzlehttp to work but it will automatically be installed with this package. If you are still having trouble with guzzle, manually install with:
 
