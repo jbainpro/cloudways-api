@@ -1,5 +1,5 @@
 {
-    "name": "armagedan/cloudways-api",
+    "name": "jbainpro/mycloudwaysapi",
     "description": "A Class which contains a collection of Cloudways API for ease of use. All the available API from the Cloudways Docs are included. Happy Coding.",
     "type": "library",
     "require": {
@@ -8,13 +8,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mohamed Shuaau",
-            "email": "shuaaum@gmail.com"
+            "name": "Jbain",
+            "email": "jbainpromo@gmail.com"
         }
     ],
 	"autoload": {
         "psr-4": {
-            "Armagedan\\CloudwaysApi\\": "src"
+            "Jbainpro\\CloudwaysApi\\": "src"
         }
     }
 }
